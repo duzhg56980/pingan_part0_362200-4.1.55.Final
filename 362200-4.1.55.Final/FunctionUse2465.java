@@ -1,0 +1,7 @@
+import io.netty.channel.PendingBytesTracker.DefaultChannelPipelinePendingBytesTracker;
+public class FunctionUse2465 {
+public void funcUse() {
+DefaultChannelPipelinePendingBytesTracker defaultchannelpipelinependingbytestracker = new DefaultChannelPipelinePendingBytesTracker();
+defaultchannelpipelinependingbytestracker.incrementPendingOutboundBytes(null);
+}
+}
